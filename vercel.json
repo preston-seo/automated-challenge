@@ -1,0 +1,8 @@
+{
+  "version": 2,
+  "name": "automated-challenge",
+  "public": true,
+  "github": {
+    "enabled": false
+  }
+}
